@@ -23,7 +23,7 @@ A Python-based command-line application that tracks daily nutrition including pr
 1. Run the program: python project.py
 2. Run tests: pytest test_project.py
 
-
+---
 **Project Structure**:
 project.py (Main application logic)
 test_project.py (Unit tests)
@@ -32,11 +32,7 @@ README.md (Documentation)
 
 
 **Skills Demonstrated:**
--Python programming
--Data handling using CSV
--Problem solving
--Modular programming
--Unit testing
+Python programming, Data handling using CSV, Problem solving, Modular programming and Unit testing
 
 ---
 **Detailed Explanation:**
