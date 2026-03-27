@@ -19,15 +19,17 @@ A Python-based command-line application that tracks daily nutrition including pr
 
 ---
 
-## How to Run
+## How to Run:
 1. Run the program: python project.py
 2. Run tests: pytest test_project.py
 
-**Project Structure**
-project.py          # Main application logic
-test_project.py     # Unit tests
-foods.csv           # Food database
-README.md           # Documentation
+
+**Project Structure**:
+project.py (Main application logic)
+test_project.py (Unit tests)
+foods.csv (Food database)
+README.md (Documentation)
+
 
 **Skills Demonstrated:**
 -Python programming
@@ -36,6 +38,7 @@ README.md           # Documentation
 -Modular programming
 -Unit testing
 
+---
 **Detailed Explanation:**
 This Fitness & Nutrition Tracker is a simple command-line Python application that allows users to track their daily nutrition intake. You can enter the foods you eat in grams and the application will provide you with the total amount of protein, calories, carbs, and fat in your diet.
 
