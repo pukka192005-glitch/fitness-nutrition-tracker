@@ -1,0 +1,201 @@
+food,calories,protein,carbs,fat
+Roti,297,10.0,60.0,2.5
+White Rice,130,2.7,28.2,0.3
+Brown Rice,111,2.6,23.0,0.9
+Dal Tadka,110,5.5,15.8,3.2
+Moong Dal,105,7.0,19.0,0.4
+Masoor Dal,116,9.0,20.0,0.4
+Paneer,265,18.3,1.2,20.8
+Bhindi Sabzi,90,2.1,9.8,5.2
+Soya Chunks,345,52.0,33.0,0.5
+Milk,62,3.2,4.7,3.5
+Curd,61,3.5,4.5,3.3
+Ghee,884,0.0,0.0,99.5
+Butter,717,0.8,0.1,81.0
+Aloo Gobi,120,2.5,14.0,7.0
+Chana Masala,160,7.0,24.0,4.5
+Rajma Masala,145,6.5,21.0,4.0
+Palak Paneer,160,9.0,6.0,12.0
+Matar Paneer,175,9.5,8.0,12.5
+Baingan Bharta,105,1.8,9.0,7.5
+Mixed Vegetable,95,2.8,11.5,4.8
+Aloo Paratha,210,4.0,32.0,8.0
+Paneer Paratha,240,9.0,28.0,11.0
+Idli,58,1.6,12.5,0.2
+Dosa,170,3.5,28.0,5.0
+Sambhar,65,2.5,9.5,2.1
+Poha,180,3.3,38.0,1.8
+Upma,190,4.2,32.0,5.5
+Dhokla,160,6.0,28.0,3.0
+Thepla,220,6.0,34.0,7.0
+Khichdi,140,4.8,24.0,3.5
+Poori,340,6.0,45.0,16.0
+Chole,165,7.5,25.0,4.0
+Bhatura,320,7.0,50.0,10.0
+Pav Bhaji,150,3.5,22.0,5.5
+Vada Pav,280,5.5,40.0,11.0
+Samosa,260,4.5,32.0,13.0
+Pakora,220,5.0,24.0,12.0
+Chicken Curry,180,18.0,4.5,10.0
+Butter Chicken,240,14.0,8.0,18.0
+Chicken Biryani,160,12.0,22.0,3.5
+Mutton Curry,220,19.0,5.0,14.0
+Fish Curry,150,16.5,3.5,8.0
+Egg Curry,140,11.0,4.0,9.0
+Boiled Egg,155,12.6,1.1,10.6
+Omelette,154,11.0,0.7,12.0
+Paneer Bhurji,230,15.0,5.0,17.5
+Aloo Mataar,110,3.0,18.0,3.5
+Bhindi Fry,150,2.5,12.0,11.0
+Karela Sabzi,85,1.5,9.0,5.0
+Lauki Sabzi,60,1.0,6.0,3.5
+Banana,89,1.1,22.8,0.3
+Apple,52,0.3,13.8,0.2
+Mango,60,0.8,15.0,0.4
+Papaya,43,0.5,10.8,0.3
+Guava,68,2.5,14.3,0.9
+Pomegranate,83,1.7,18.7,1.2
+Orange,47,0.9,11.7,0.1
+Watermelon,30,0.6,7.5,0.1
+Grapes,69,0.7,18.0,0.2
+Chickpeas,164,8.9,27.0,2.6
+Peanuts,567,25.0,16.0,49.0
+Almonds,579,21.0,21.6,49.9
+Walnuts,654,15.0,13.7,65.2
+Cashews,553,18.2,30.2,43.8
+Pistachios,562,20.0,27.0,45.0
+Chia Seeds,486,17.0,42.0,31.0
+Flax Seeds,534,18.0,29.0,42.0
+Pumpkin Seeds,559,30.0,11.0,49.0
+Oats,389,16.9,66.0,6.9
+Corn,86,3.2,19.0,1.2
+Sweet Potato,86,1.6,20.0,0.1
+Potato,77,2.0,17.0,0.1
+Tomato,18,0.9,3.9,0.2
+Onion,40,1.1,9.3,0.1
+Cucumber,15,0.7,3.6,0.1
+Spinach,23,2.9,3.6,0.4
+Carrot,41,0.9,9.6,0.2
+Cauliflower,25,1.9,5.0,0.3
+Cabbage,25,1.3,5.8,0.1
+Green Peas,81,5.4,14.5,0.4
+Capsicum,20,0.9,4.6,0.2
+Garlic,149,6.4,33.0,0.5
+Ginger,80,1.8,18.0,0.8
+Turmeric,354,7.8,65.0,10.0
+Honey,304,0.3,82.0,0.0
+Sugar,387,0.0,100.0,0.0
+Jaggery,383,0.4,98.0,0.1
+Besan Ladoo,450,9.0,60.0,20.0
+Gulab Jamun,320,4.0,50.0,12.0
+Jalebi,300,2.0,70.0,2.0
+Kaju Katli,450,10.0,55.0,22.0
+Kheer,140,3.5,22.0,4.0
+Tea,45,1.2,7.0,1.5
+Coffee,55,1.5,8.5,1.8
+Buttermilk,30,1.0,2.5,1.8
+Coconut Water,19,0.7,3.7,0.2
+Lassi,80,2.5,12.0,2.5
+Lemonade,40,0.1,10.0,0.0
+Mushroom,22,3.1,3.3,0.3
+Tofu,76,8.0,1.9,4.8
+Bajra Roti,289,10.6,60.7,4.8
+Jowar Roti,270,9.5,58.0,3.5
+Missi Roti,260,11.5,45.0,4.2
+Naan,285,8.0,52.0,5.5
+Kulcha,270,7.5,50.0,4.5
+Lachha Paratha,310,6.5,45.0,12.0
+Jeera Rice,140,2.8,30.0,0.8
+Lemon Rice,165,3.0,34.0,2.5
+Curd Rice,115,3.2,18.0,3.0
+Vegetable Pulao,125,3.5,24.0,2.0
+Methi Thepla,215,7.0,32.0,6.5
+Sabudana Khichdi,210,1.5,45.0,4.0
+Sabudana Vada,280,2.0,48.0,9.0
+Rava Idli,105,3.5,20.0,1.2
+Ragi Mudde,120,3.1,25.0,0.5
+Adai,180,9.0,28.0,4.0
+Pesarattu,170,8.5,26.0,3.5
+Appam,120,2.0,25.0,1.5
+Uttapam,150,4.0,28.0,2.5
+Neer Dosa,105,2.0,23.0,0.5
+Moong Dal Halwa,380,6.0,45.0,20.0
+Gajar Halwa,165,3.0,25.0,6.0
+Sooji Halwa,285,3.5,48.0,9.0
+Shrikhand,250,5.5,40.0,7.0
+Mishti Doi,160,4.5,28.0,3.5
+Rasgulla,185,4.0,40.0,1.0
+Rasmalai,210,6.5,25.0,9.0
+Mysore Pak,480,5.0,50.0,28.0
+Sandesh,220,9.0,35.0,5.0
+Malpua,350,4.0,55.0,14.0
+Aloo Shimla Mirch,110,2.5,14.0,5.5
+Aloo Methi,115,3.0,15.0,5.0
+Aloo Baingan,100,1.8,12.0,5.5
+Arbi Masala,125,2.0,24.0,3.0
+Tinda Sabzi,65,1.2,7.0,3.5
+Turai Sabzi,55,1.0,6.5,3.0
+Kathal Sabzi,105,2.5,18.0,3.0
+Parwal Sabzi,75,2.0,9.0,4.0
+Sem Phali Sabzi,85,3.8,12.0,2.5
+Gawar Phali Sabzi,70,3.5,10.0,2.0
+Dal Bati,350,11.0,55.0,10.0
+Dal Makhani,155,5.5,18.0,7.0
+Panchmel Dal,120,7.5,20.0,1.5
+Handvo,185,7.0,28.0,5.0
+Khandvi,140,5.0,16.0,6.0
+Kachori,380,7.0,42.0,21.0
+Bread Pakora,250,5.0,28.0,13.0
+Mirchi Bada,220,4.5,26.0,11.0
+Sev Puri,210,4.0,30.0,8.0
+Bhel Puri,180,3.5,35.0,3.0
+Dahi Vada,160,6.0,18.0,7.0
+Pani Puri,150,2.5,30.0,2.0
+Papdi Chaat,230,4.5,32.0,9.5
+Aloo Tikki,180,2.5,25.0,8.0
+Ragda Pattice,160,6.5,24.0,4.5
+Khaman Dhokla,150,6.0,24.0,3.5
+Muthiya,160,5.5,28.0,2.5
+Patra,180,6.0,25.0,6.0
+Kadhi Pakora,125,4.5,12.0,6.5
+Gujarati Kadhi,75,2.0,10.0,3.0
+Sol Kadhi,60,0.5,4.0,4.5
+Kozhukattai,160,3.0,35.0,1.0
+Murukku,520,7.0,55.0,30.0
+Banana Chips,510,2.5,58.0,30.0
+Chakli,500,8.0,52.0,28.0
+Namak Pare,480,7.5,55.0,25.0
+Sev,550,10.0,40.0,40.0
+Boondi,520,8.0,50.0,32.0
+Makhana Roasted,450,9.0,75.0,12.0
+Masala Oats,160,5.0,28.0,3.0
+Dalia,110,3.5,22.0,0.5
+Vegetable Upma,150,3.5,25.0,4.0
+Vermicelli Upma,170,3.0,32.0,3.5
+Pooran Poli,280,6.0,55.0,4.5
+Modak,240,3.5,48.0,4.0
+Karanji,450,6.0,52.0,24.0
+Shakarpara,490,6.5,60.0,25.0
+Chivda,480,7.0,65.0,22.0
+Ghughra,320,5.0,45.0,13.0
+Mathri,510,8.0,50.0,31.0
+Khakhra,410,10.0,70.0,10.0
+Papad,320,20.0,55.0,1.5
+Pickle Mango,150,1.5,12.0,11.0
+Pickle Lemon,70,1.0,15.0,0.5
+Green Chutney,50,2.5,8.0,1.0
+Tamarind Chutney,180,1.0,45.0,0.1
+Coconut Chutney,160,2.5,8.0,14.0
+Garlic Chutney,220,5.0,18.0,15.0
+Peanut Chutney,450,18.0,15.0,38.0
+Raita Mixed Veg,55,3.0,5.0,2.5
+Boondi Raita,110,3.5,10.0,6.5
+Pineapple Raita,85,2.0,16.0,1.5
+Badam Milk,120,4.5,15.0,4.5
+Thandai,180,5.0,25.0,7.0
+Aam Panna,65,0.5,16.0,0.1
+Jaljeera,25,0.5,6.0,0.1
+Sugarcane Juice,270,0.3,70.0,0.1
+Toddy Palm Fruit,45,0.8,11.0,0.1
+Custard Apple,100,2.0,25.0,0.3
+Chikoo,83,0.5,20.0,1.1
